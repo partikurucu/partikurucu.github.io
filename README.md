@@ -1,0 +1,1 @@
+# partikurucu.github.io
