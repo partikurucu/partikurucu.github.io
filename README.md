@@ -1,1 +1,1 @@
-# partikurucu.github.io
+Random name generator for both places and the people from those places.
