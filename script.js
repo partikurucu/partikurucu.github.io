@@ -2,8 +2,8 @@
 
 // Code goes here
 
-var initials = ['Cumhuriyet', 'Cumhuriyetçi', 'Sosyal Demokrat', 'Sosyal', 'Halkçı', 'Gelecek', 'Milliyetçi', 'Muhafazakar', 'Komünist', 'Yenilik', 'Güzellik', 'Gelenekçi', 'Güzellikçi', 'İyi', 'Ak', 'Siyah', 'Kırmızı', 'Mavi', 'Kızıl', 'İşçi', 'Refah', 'Yoldaş', 'Mutlu', 'Türk', 'Tüm', 'Bağımsızlık', 'Dünya', 'Liberal', 'Demokrat', 'Manevi', 'Milli', 'Büyük', 'Yeniden', 'Halkın'];
-var nucleii = [' Ve Demokratik', ' Bir', ' Kalkınma', ' Yükseliş', ' Diriliş', ' Gelişim', ' İlerici', ' Ekonomi', ' Vatansever', ' İttihat', ' Yurt', ' Vatan', ' Proleter', ' İşçi', '  Yürek', ' Birlik', ' Vatan', ' Toplum', ' Hürriyet', '' ];
+var initials = ['Cumhuriyet', 'Cumhuriyetçi', 'Sosyal Demokrat', 'Özgürlükçü', 'Sosyal', 'Halkçı', 'Gelecek', 'Milliyetçi', 'Muhafazakar', 'Komünist', 'Yenilik', 'Güzellik', 'Gelenekçi', 'Güzellikçi', 'İyi', 'Ak', 'Siyah', 'Kırmızı', 'Mavi', 'Kızıl', 'İşçi', 'Refah', 'Yoldaş', 'Mutlu', 'Türk', 'Tüm', 'Bağımsızlık', 'Dünya', 'Liberal', 'Demokrat', 'Manevi', 'Milli', 'Büyük', 'Yeniden', 'Halkın'];
+var nucleii = [' Ve Demokratik', ' Bir', ' Kalkınma', ' Liberter', ' Yükseliş', ' Diriliş', ' Gelişim', ' İlerici', ' Ekonomi', ' Vatansever', ' İttihat', ' Yurt', ' Vatan', ' Proleter', ' İşçi', '  Yürek', ' Birlik', ' Vatan', ' Toplum', ' Hürriyet', '' ];
 var finals = [' Partisi', ' Fırkası', ' Partisi' ];
 
 function random(min, max) {
